@@ -1,0 +1,13 @@
+table {
+	border-spacing: 0;
+	margin: 36px;
+}
+table, td {
+	border: 1px solid black;
+}
+td {
+	min-width: 20px;
+	min-height: 20px;
+	width: 20px;
+	height: 20px;
+}
